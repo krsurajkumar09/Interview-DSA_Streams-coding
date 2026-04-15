@@ -18,8 +18,9 @@ public class ReverseString {
             leftIndex++;
             rightIndex--;
         }
-        System.out.println("Reversed string is " + input);
-//      System.out.println("Reversed string is " + reverseString(input) );
+        System.out.println("Original string is " + input);
+//        System.out.println("Reversed string is " + new String(charArray));
+      System.out.println("Reversed string is " + reverseString(input) );
 
     }
 
