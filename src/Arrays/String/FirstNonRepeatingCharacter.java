@@ -1,6 +1,6 @@
 package Arrays.String;
 import java.util.HashMap;
-import  java.util.Map;
+import java.util.Map;
 
 import java.util.*;
 
