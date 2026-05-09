@@ -6,8 +6,7 @@ public class Student {
 
     private final String name;
 
-    public Student(Integer id, String name)
-    {
+    public Student(Integer id, String name) {
         this.id = id;
         this.name = name;
     }
